@@ -1,0 +1,30 @@
+# PlatformIO-specific folders
+/.pio/
+/.vscode/
+build/
+
+# PlatformIO configuration backups
+*.ini.bkp
+
+# Compiled object files and libraries
+*.o
+*.a
+*.d
+
+# Firmware binaries
+*.bin
+*.elf
+*.hex
+
+# Logs and debugging files
+*.log
+
+# Python virtual environments (used by PlatformIO)
+.pythonpackages/
+
+# User-specific settings
+*.pyc
+__pycache__/
+
+*/README
+
